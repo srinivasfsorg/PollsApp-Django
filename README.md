@@ -1,2 +1,2 @@
 # webapp
-This project is intended to touch 3 tier web application
+This project is intended to touch and feel 3-tier Web Application.
